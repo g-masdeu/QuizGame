@@ -7,29 +7,29 @@ Este proyecto es una aplicación Flutter diseñada para demostrar animaciones in
 Su objetivo es combinar una interfaz moderna y fluida con una experiencia de usuario visualmente atractiva, aprovechando la potencia del motor gráfico de Flutter.
 
 ## 🎨 Características principales
-- Animaciones dinámicas
+Animaciones dinámicas:
 - Lottie: para animaciones vectoriales escalables.
 - Confetti: para efectos festivos y visuales de celebración.
 - flutter_animate / flutter_animation: transiciones suaves y microinteracciones con control total de tiempos y curvas.
 
 ## 🧊 Glassmorphism UI
-- Diseño moderno con:
+Diseño moderno con:
 - Capas translúcidas y desenfoques (BackdropFilter).
 - Degradados suaves y sombras difuminadas.
 - Estética elegante inspirada en el diseño “glass”.
 
 ## 🌍 Soporte Multiidioma
-- Integración completa de i18n con flutter_localizations y intl.
+Integración completa de i18n con flutter_localizations y intl.
 - Detección automática del idioma del sistema.
 - Textos y widgets totalmente traducibles.
 
 ## 🧠 Tecnologías utilizadas
-Categoría					Herramientas / Paquetes
-Framework					Flutter
-Animaciones					lottie, confetti, flutter_animate
-Diseño UI					BackdropFilter, BoxDecoration, blur, gradients
-Internacionalización		flutter_localizations, intl
-Gestión de estado			Provider o Riverpod (dependiendo de la implementación)
+Categoría					      Herramientas / Paquetes
+Framework					      Flutter
+Animaciones					    lottie, confetti, flutter_animate
+Diseño UI					      BackdropFilter, BoxDecoration, blur, gradients
+Internacionalización	  flutter_localizations, intl
+Gestión de estado			  Provider o Riverpod (dependiendo de la implementación)
 
 ## 📸 Vista previa
 <img width="1920" height="995" alt="image" src="https://github.com/user-attachments/assets/f565acc1-62ba-469b-a9de-3cc41a761ec1" />
