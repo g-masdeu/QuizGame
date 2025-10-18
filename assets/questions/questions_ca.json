@@ -1,0 +1,1253 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "science_technology",
+      "name": "Ciència i tecnologia",
+      "icon": "science",
+      "color": "#2563EB",
+      "questions": [
+        {
+          "q": "Què significa CPU?",
+          "options": [
+            "Unitat Central de Procés",
+            "Unitat de Rodes i Pneumàtics",
+            "Control Universal de Pantalla",
+            "Centre de Portàtils Units"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què significa RAM?",
+          "options": [
+            "Memòria d’Accés Aleatori",
+            "Rellotge d’Altura Màxima",
+            "Registre d’Aplicacions Mòbils",
+            "Radi d’Audiència Mitjana"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què significa URL?",
+          "options": [
+            "Localitzador Uniforme de Recursos",
+            "Uniforme Ràpid de Lectura",
+            "Unitat de Registre Local",
+            "Usuari Registrat en Línia"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és un navegador web?",
+          "options": [
+            "Programa per visitar llocs web",
+            "Una impressora",
+            "Una càmera de fotos",
+            "Una bateria"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és el Wi‑Fi?",
+          "options": [
+            "Connexió sense fils a Internet",
+            "Un tipus de pantalla",
+            "Un videojoc",
+            "Un cable especial"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és el Bluetooth?",
+          "options": [
+            "Tecnologia sense fils de curt abast",
+            "Un reproductor de música",
+            "Una xarxa social",
+            "Un tipus d’endoll"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és el GPS?",
+          "options": [
+            "Sistema de posicionament global",
+            "Un navegador d’escriptori",
+            "Un robot de cuina",
+            "Un sistema operatiu"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és el núvol (cloud)?",
+          "options": [
+            "Servidors remots per guardar i usar dades",
+            "Una memòria USB",
+            "Una antena de TV",
+            "Un ratolí d’ordinador"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és un algoritme?",
+          "options": [
+            "Conjunt de passos per resoldre un problema",
+            "Un tipus de música",
+            "Un joc de taula",
+            "Una foto animada"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Per a què serveix un antivirus?",
+          "options": [
+            "Detectar i eliminar programari maliciós",
+            "Fer més gran la pantalla",
+            "Canviar el color del teclat",
+            "Fer fotos"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és un sistema operatiu?",
+          "options": [
+            "Programari que gestiona el maquinari",
+            "Una peça de l’ordinador",
+            "Un joc famós",
+            "Un tipus de cable"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és una base de dades?",
+          "options": [
+            "Sistema per guardar i consultar informació",
+            "Un teclat musical",
+            "Un micròfon",
+            "Una llanterna"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és un PDF?",
+          "options": [
+            "Format de document portàtil",
+            "Un vídeo curt",
+            "Una aplicació de xat",
+            "Un antivirus"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és un codi QR?",
+          "options": [
+            "Codi llegible amb càmera que enllaça informació",
+            "Una memòria extra",
+            "Un joc de lletres",
+            "Una impressora ràpida"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és un SSD?",
+          "options": [
+            "Unitat d’estat sòlid d’emmagatzematge",
+            "Un altaveu",
+            "Una pantalla tàctil",
+            "Una càmera lenta"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Per a què serveix un microscopi?",
+          "options": [
+            "Veure objectes molt petits",
+            "Fer fotos de lluny",
+            "Mesurar el temps",
+            "Pintar dibuixos"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Per a què serveix un telescopi?",
+          "options": [
+            "Veure objectes molt llunyans",
+            "Escoltar música",
+            "Tall de paper",
+            "Mesurar el pes"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Per a què serveix un termòmetre?",
+          "options": [
+            "Mesurar la temperatura",
+            "Mesurar la longitud",
+            "Mesurar el soroll",
+            "Mesurar la velocitat"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Per a què serveix una balança?",
+          "options": [
+            "Mesurar la massa (pes)",
+            "Mesurar la llum",
+            "Mesurar el temps",
+            "Mesurar el vent"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina part és “el cervell” de l’ordinador?",
+          "options": [
+            "La CPU",
+            "La pantalla",
+            "El ratolí",
+            "Els altaveus"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "arts_literature",
+      "name": "Art i literatura",
+      "icon": "palette",
+      "color": "#9333EA",
+      "questions": [
+        {
+          "q": "Qui va escriure «El Quixot»?",
+          "options": [
+            "Miguel de Cervantes",
+            "William Shakespeare",
+            "Federico García Lorca",
+            "Jane Austen"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va escriure «El Petit Príncep»?",
+          "options": [
+            "Antoine de Saint‑Exupéry",
+            "Hans Christian Andersen",
+            "Roald Dahl",
+            "J. K. Rowling"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va escriure «Hamlet»?",
+          "options": [
+            "William Shakespeare",
+            "Cervantes",
+            "Garcia Márquez",
+            "Jules Verne"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va escriure «Rayuela»?",
+          "options": [
+            "Julio Cortázar",
+            "Mario Vargas Llosa",
+            "Pablo Neruda",
+            "Borges"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va pintar «La Mona Lisa»?",
+          "options": [
+            "Leonardo da Vinci",
+            "Picasso",
+            "Van Gogh",
+            "Dalí"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va pintar «Les Menines»?",
+          "options": [
+            "Diego Velázquez",
+            "Monet",
+            "Rembrandt",
+            "Kahlo"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va pintar «Guernica»?",
+          "options": [
+            "Pablo Picasso",
+            "Joan Miró",
+            "Van Gogh",
+            "Monet"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va pintar «La nit estrellada»?",
+          "options": [
+            "Vincent van Gogh",
+            "Claude Monet",
+            "Paul Cézanne",
+            "El Greco"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va pintar «La persistència de la memòria»?",
+          "options": [
+            "Salvador Dalí",
+            "Botticelli",
+            "Velázquez",
+            "Matisse"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va pintar «El naixement de Venus»?",
+          "options": [
+            "Sandro Botticelli",
+            "Miguel Ángel",
+            "Rafael",
+            "Manet"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin moviment explora els somnis i l’estrany?",
+          "options": [
+            "Surrealisme",
+            "Cubisme",
+            "Renaixement",
+            "Neoclassicisme"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin moviment usa pinzellades ràpides i llum natural?",
+          "options": [
+            "Impressionisme",
+            "Barroc",
+            "Cubisme",
+            "Fauvisme"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin moviment descompon figures en formes geomètriques?",
+          "options": [
+            "Cubisme",
+            "Romanticisme",
+            "Gòtic",
+            "Manierisme"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin d’aquests és un gènere literari?",
+          "options": [
+            "Novel·la",
+            "Semàfor",
+            "Hamburguesa",
+            "Volant d’un cotxe"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina tècnica de pintura usa aigua com a base?",
+          "options": [
+            "Aquarel·la",
+            "Gravat",
+            "Oli",
+            "Acrílic amb sorra"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és una tècnica clàssica amb oli?",
+          "options": [
+            "Pintura a l’oli",
+            "Paper maixé",
+            "Esprai metàl·lic",
+            "Cera calenta"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Com s’anomena un poema de 14 versos?",
+          "options": [
+            "Sonet",
+            "Oda",
+            "Cançó",
+            "Rima lliure"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va escriure «1984»?",
+          "options": [
+            "George Orwell",
+            "Aldous Huxley",
+            "Isaac Asimov",
+            "Mark Twain"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va escriure «Orgull i prejudici»?",
+          "options": [
+            "Jane Austen",
+            "Emily Brontë",
+            "Mary Shelley",
+            "Louisa May Alcott"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és un «guió» en cinema o teatre?",
+          "options": [
+            "El text amb diàlegs i escenes",
+            "Una càmera especial",
+            "Una sala de pintura",
+            "Un instrument musical"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Esports",
+      "icon": "sports_soccer",
+      "color": "#EF4444",
+      "questions": [
+        {
+          "q": "Quants jugadors té cada equip al camp en futbol?",
+          "options": [
+            "11",
+            "10",
+            "12",
+            "9"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin esport usa un aro i un tauler?",
+          "options": [
+            "Bàsquet",
+            "Futbol",
+            "Tenis",
+            "Rugbi"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què s’utilitza per colpejar la pilota en beisbol?",
+          "options": [
+            "Un bat",
+            "Una raqueta",
+            "Un pal de golf",
+            "Una pala de ping‑pong"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin color indica expulsió directa al futbol?",
+          "options": [
+            "Vermell",
+            "Groc",
+            "Blau",
+            "Verd"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina part del cos no es pot usar al futbol (excepte el porter)?",
+          "options": [
+            "Les mans",
+            "Els peus",
+            "El cap",
+            "Les cames"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin esport es juga amb raqueta?",
+          "options": [
+            "Tenis",
+            "Futbol",
+            "Bàsquet",
+            "Waterpolo"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "On es juga el tenis?",
+          "options": [
+            "En una pista",
+            "En una piscina",
+            "En un ring",
+            "En una pista de gel"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "En quin esport es fa servir un tatami?",
+          "options": [
+            "Judo",
+            "Rugbi",
+            "Bàsquet",
+            "Ciclisme"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Com s’anomena el primer cop al tenis?",
+          "options": [
+            "Saque",
+            "Rematada",
+            "Pase",
+            "Gol"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Hi ha fora de joc al bàsquet?",
+          "options": [
+            "No",
+            "Sí",
+            "Només a vegades",
+            "Depèn de l’àrbitre"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quants punts val un triple al bàsquet?",
+          "options": [
+            "3 punts",
+            "2 punts",
+            "1 punt",
+            "4 punts"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "On es practica la natació?",
+          "options": [
+            "A la piscina",
+            "A la pista",
+            "Al ring",
+            "Al camp"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina distància té una marató?",
+          "options": [
+            "42,195 km",
+            "21 km",
+            "10 km",
+            "5 km"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin esport es juga a l’aigua amb pilota i porteries?",
+          "options": [
+            "Waterpolo",
+            "Futbol sala",
+            "Handbol",
+            "Hoquei"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin esport utilitza pals per colpejar una bola cap a forats?",
+          "options": [
+            "Golf",
+            "Beisbol",
+            "Tenis",
+            "Voleibol"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin esport es fa amb una taula sobre les onades?",
+          "options": [
+            "Surf",
+            "Snowboard",
+            "Esquí",
+            "Patinatge artístic"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin esport es fa amb una taula sobre la neu?",
+          "options": [
+            "Snowboard",
+            "Surf",
+            "Waterpolo",
+            "Rem"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin esport es fa amb esquís sobre la neu?",
+          "options": [
+            "Esquí",
+            "Ciclisme",
+            "Natació",
+            "Tenis"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin esport es juga amb una xarxa i es colpeja la pilota amb les mans?",
+          "options": [
+            "Voleibol",
+            "Bàsquet",
+            "Futbol",
+            "Golf"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin esport es practica en un ring amb guants?",
+          "options": [
+            "Boxa",
+            "Gimnàstica",
+            "Bàsquet",
+            "Rugbi"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Geografia",
+      "icon": "public",
+      "color": "#10B981",
+      "questions": [
+        {
+          "q": "Quina és la capital d’Espanya?",
+          "options": [
+            "Madrid",
+            "Barcelona",
+            "Atenes",
+            "Roma"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és la capital de França?",
+          "options": [
+            "París",
+            "Londres",
+            "Lió",
+            "Marsella"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és la capital d’Itàlia?",
+          "options": [
+            "Roma",
+            "Milà",
+            "Nàpols",
+            "Torí"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és la capital d’Alemanya?",
+          "options": [
+            "Berlín",
+            "Hamburg",
+            "Munic",
+            "Frankfurt"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és la capital de Portugal?",
+          "options": [
+            "Lisboa",
+            "Porto",
+            "Coïmbra",
+            "Braga"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és la capital de Mèxic?",
+          "options": [
+            "Ciutat de Mèxic",
+            "Guadalajara",
+            "Monterrey",
+            "Tijuana"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és la capital d’Argentina?",
+          "options": [
+            "Buenos Aires",
+            "Còrdova",
+            "Rosario",
+            "Mendoza"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és la capital del Brasil?",
+          "options": [
+            "Brasília",
+            "Rio de Janeiro",
+            "São Paulo",
+            "Salvador"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és la capital de Xile?",
+          "options": [
+            "Santiago",
+            "Valparaíso",
+            "Concepción",
+            "Antofagasta"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és la capital del Perú?",
+          "options": [
+            "Lima",
+            "Cusco",
+            "Arequipa",
+            "Trujillo"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és la capital del Japó?",
+          "options": [
+            "Tòquio",
+            "Osaka",
+            "Kyoto",
+            "Nagoya"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és la capital del Regne Unit?",
+          "options": [
+            "Londres",
+            "Manchester",
+            "Edimburg",
+            "Bristol"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin és l’oceà més gran?",
+          "options": [
+            "Pacífic",
+            "Atlàntic",
+            "Índic",
+            "Àrtic"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina és la muntanya més alta sobre el nivell del mar?",
+          "options": [
+            "Everest",
+            "K2",
+            "Kilimanjaro",
+            "Mont Blanc"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin mar banya l’est d’Espanya?",
+          "options": [
+            "Mediterrani",
+            "Bàltic",
+            "Carib",
+            "Mar del Nord"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin d’aquests és un continent?",
+          "options": [
+            "Europa",
+            "Sàhara",
+            "Himàlaia",
+            "Nil"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "A quin continent es troba el riu Nil?",
+          "options": [
+            "Àfrica",
+            "Europa",
+            "Amèrica",
+            "Oceania"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin país és el més gran per superfície?",
+          "options": [
+            "Rússia",
+            "Canadà",
+            "Xina",
+            "Brasil"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Com s’anomena un desert molt gran d’Àfrica?",
+          "options": [
+            "Sàhara",
+            "Gobi",
+            "Atacama",
+            "Kalahari"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quants continents principals solem comptar?",
+          "options": [
+            "7",
+            "5",
+            "6",
+            "4"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "Història",
+      "icon": "history",
+      "color": "#8B5CF6",
+      "questions": [
+        {
+          "q": "En quin any Cristòfor Colom va arribar a Amèrica?",
+          "options": [
+            "1492",
+            "1519",
+            "1453",
+            "1500"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin mur va caure el 1989?",
+          "options": [
+            "El Mur de Berlín",
+            "La Gran Muralla Xinesa",
+            "El Mur d’Adrià",
+            "La Línia Maginot"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin famós conqueridor era macedoni?",
+          "options": [
+            "Alexandre el Gran",
+            "Juli Cèsar",
+            "Napoleó",
+            "Genguis Khan"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin invent va permetre imprimir llibres en sèrie a Europa?",
+          "options": [
+            "Imprenta de tipus mòbils",
+            "Rellotge mecànic",
+            "Paper moneda",
+            "Brúixola"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina missió va portar els primers humans a la Lluna?",
+          "options": [
+            "Apolo 11",
+            "Apolo 13",
+            "Apolo 8",
+            "Apolo 17"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin període va ser abans del Renaixement?",
+          "options": [
+            "Edat Mitjana",
+            "Edat Moderna",
+            "Prehistòria recent",
+            "Antiguitat clàssica"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "En quin any va començar la Revolució Francesa?",
+          "options": [
+            "1789",
+            "1776",
+            "1812",
+            "1804"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina ciutat era la capital de l’Imperi Romà?",
+          "options": [
+            "Roma",
+            "Atenes",
+            "Alexandria",
+            "Cartago"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "En quin any va començar la Primera Guerra Mundial?",
+          "options": [
+            "1914",
+            "1939",
+            "1905",
+            "1920"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Al costat de quin riu va créixer l’antic Egipte?",
+          "options": [
+            "Nil",
+            "Tigris",
+            "Eufrates",
+            "Danubi"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "On va néixer l’escriptura cuneïforme?",
+          "options": [
+            "Mesopotàmia",
+            "Xina",
+            "Egipte",
+            "Roma"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va ser el primer emperador romà?",
+          "options": [
+            "August",
+            "Neró",
+            "Trajà",
+            "Cèsar (no emperador)"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quina ciutat va ser capital de l’Imperi Inca?",
+          "options": [
+            "Cusco",
+            "Quito",
+            "Lima",
+            "La Paz"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin líder francès del segle XIX va ser emperador?",
+          "options": [
+            "Napoleó",
+            "Richelieu",
+            "Lluís XIV",
+            "De Gaulle"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "On es va inventar la pólvora?",
+          "options": [
+            "Xina",
+            "Egipte",
+            "Grècia",
+            "Índia"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "En quina època va ocórrer la pesta negra a Europa?",
+          "options": [
+            "Edat Mitjana",
+            "Edat Antiga",
+            "Renaixement",
+            "Edat Moderna"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui s’associa amb la impremta a Europa?",
+          "options": [
+            "Gutenberg",
+            "Da Vinci",
+            "Galileu",
+            "Newton"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què va ser la Guerra Freda?",
+          "options": [
+            "Una tensió entre blocs sense guerra directa",
+            "Una batalla a l’Antàrtida",
+            "Una guerra a l’hivern",
+            "Una lluita per gelats"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és la Magna Carta?",
+          "options": [
+            "Un document anglès medieval",
+            "Un llibre de contes",
+            "Una ciutat antiga",
+            "Una cançó popular"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "On va començar el Renaixement?",
+          "options": [
+            "Itàlia",
+            "Alemanya",
+            "França",
+            "Egipte"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "cinema",
+      "name": "Cinema",
+      "icon": "movie",
+      "color": "#F59E0B",
+      "questions": [
+        {
+          "q": "Qui va dirigir «Titanic» (1997)?",
+          "options": [
+            "James Cameron",
+            "Steven Spielberg",
+            "Peter Jackson",
+            "Ridley Scott"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "A quina sèrie de pel·lícules surt Darth Vader?",
+          "options": [
+            "Star Wars",
+            "Star Trek",
+            "Alien",
+            "Matrix"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin premi lliura l’Acadèmia de Hollywood?",
+          "options": [
+            "Òscar",
+            "Palma d’Or",
+            "BAFTA",
+            "Globus d’Or"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va interpretar Forrest Gump?",
+          "options": [
+            "Tom Hanks",
+            "Brad Pitt",
+            "Tom Cruise",
+            "Leonardo DiCaprio"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "En quina ciutat es dona la Palma d’Or?",
+          "options": [
+            "Cannes",
+            "Venècia",
+            "Berlín",
+            "Toronto"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va dirigir «Jurassic Park» (1993)?",
+          "options": [
+            "Steven Spielberg",
+            "James Cameron",
+            "Tim Burton",
+            "George Lucas"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui va dirigir «El Senyor dels Anells»?",
+          "options": [
+            "Peter Jackson",
+            "Christopher Nolan",
+            "Sam Raimi",
+            "Denis Villeneuve"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Qui és el director d’«Inception» (Origen)?",
+          "options": [
+            "Christopher Nolan",
+            "Quentin Tarantino",
+            "Martin Scorsese",
+            "Guy Ritchie"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "On es lliura el Lleó d’Or?",
+          "options": [
+            "Venècia",
+            "Cannes",
+            "San Sebastià",
+            "Karlovy Vary"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "On es lliura l’Ós d’Or?",
+          "options": [
+            "Berlín",
+            "Venècia",
+            "Cannes",
+            "Locarno"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què fa un «muntador» de cinema?",
+          "options": [
+            "Ordena i uneix les escenes",
+            "Fa les bandes sonores",
+            "Construeix decorats",
+            "Dibuixa pòsters"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què és un «guió»?",
+          "options": [
+            "El text de la pel·lícula",
+            "Un tipus de càmera",
+            "Una escola de cinema",
+            "Una caixa de so"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què són els subtítols?",
+          "options": [
+            "Text en pantalla per llegir els diàlegs",
+            "Una cançó al final",
+            "Una escena secreta",
+            "Un premi"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Un cinema projecta pel·lícules en…",
+          "options": [
+            "Pantalla gran",
+            "Pantalla del rellotge",
+            "Un llibre",
+            "Un telèfon antic"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "«Toy Story» és d’aquest estudi:",
+          "options": [
+            "Pixar",
+            "DreamWorks",
+            "Illumination",
+            "Ghibli"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin gènere fa riure?",
+          "options": [
+            "Comèdia",
+            "Terror",
+            "Drama",
+            "Documental"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin gènere fa por a propòsit?",
+          "options": [
+            "Terror",
+            "Comèdia",
+            "Musical",
+            "Aventura"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin gènere explica històries reals?",
+          "options": [
+            "Documental",
+            "Fantasia",
+            "Ciència ficció",
+            "Acció"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Què es fa servir al rodatge per marcar preses?",
+          "options": [
+            "Claqueta",
+            "Micròfon",
+            "Trípode",
+            "Projector"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Quin gènere parla de viatges a l’espai i robots?",
+          "options": [
+            "Ciència ficció",
+            "Oest",
+            "Històric",
+            "Romàntic"
+          ],
+          "answer_index": 0
+        }
+      ]
+    }
+  ]
+}

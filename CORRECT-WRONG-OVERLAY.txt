@@ -1,0 +1,308 @@
+PANTALLA ERROR / WRONG OVERLAY:
+class _WrongOverlay extends StatelessWidget {
+  final double opacity;
+  const _WrongOverlay({required this.opacity});
+
+  @override
+  Widget build(BuildContext context) {
+    final size = MediaQuery.of(context).size;
+    final animSide = (size.shortestSide * 0.2).clamp(220.0, 520.0);
+
+    final stack = Stack(
+      children: [
+        // Fondo con gradiente + blur (tono cálido moderno)
+        Container(
+          decoration: BoxDecoration(
+            gradient: RadialGradient(
+              colors: [
+                Colors.amberAccent.withOpacity(0.90),
+                const ui.Color.fromARGB(255, 255, 109, 64).withOpacity(0.95),
+                Colors.black.withOpacity(0.92),
+              ],
+              center: Alignment.center,
+              radius: 2.0,
+            ),
+          ),
+          child: BackdropFilter(
+            filter: ui.ImageFilter.blur(sigmaX: 10, sigmaY: 10),
+            child: const SizedBox.expand(),
+          ),
+        ),
+
+        // Contenido central: animación + texto
+        Center(
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              // Lottie de fallo (centrada y escalable)
+              SizedBox(
+                width: animSide,
+                height: animSide,
+                child: Lottie.asset(
+                  'assets/anim/error.json',
+                  repeat: true,
+                  frameRate: FrameRate.max,
+                  fit: BoxFit.contain,
+                ),
+              ),
+              const SizedBox(height: 24),
+              Text(
+                '¡INTÉNTALO DE NUEVO!',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontSize: 48,
+                  fontWeight: FontWeight.w900,
+                  color: Colors.white,
+                  letterSpacing: 2,
+                  shadows: [
+                    Shadow(
+                      color: Colors.black.withOpacity(0.8),
+                      blurRadius: 20,
+                      offset: const Offset(0, 6),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+        ),
+      ],
+    );
+
+    return IgnorePointer(
+      ignoring: true,
+      child: AnimatedOpacity(
+        opacity: opacity,
+        duration: const Duration(milliseconds: 200),
+        child: stack,
+      ),
+    );
+  }
+}
+
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+
+PANTALLA CORRECT / CORRECT OVERLAY:
+
+class _CorrectOverlay extends StatelessWidget {
+  final double opacity;
+  final ConfettiController confetti;
+
+  const _CorrectOverlay({required this.opacity, required this.confetti});
+
+  @override
+  Widget build(BuildContext context) {
+    // Visual estilo "SortGame": gradiente radial + blur + icono escalando + confetti
+    return IgnorePointer(
+      ignoring: true,
+      child: AnimatedOpacity(
+        opacity: opacity,
+        duration: const Duration(milliseconds: 200),
+        child: Stack(
+          children: [
+            // Fondo con gradiente y blur
+            Container(
+              decoration: BoxDecoration(
+                gradient: RadialGradient(
+                  colors: [
+                    const Color(0xFF00D4AA).withOpacity(0.95),
+                    const Color(0xFF06B6D4).withOpacity(0.9),
+                    Colors.black.withOpacity(0.95),
+                  ],
+                  center: Alignment.center,
+                  radius: 2.0,
+                ),
+              ),
+              child: BackdropFilter(
+                filter: ui.ImageFilter.blur(sigmaX: 10, sigmaY: 10),
+                child: const SizedBox.expand(),
+              ),
+            ),
+
+            // Confetti explosivo centrado
+            Align(
+              alignment: Alignment.topLeft,
+              child: ConfettiWidget(
+                confettiController: confetti,
+                blastDirectionality: BlastDirectionality.explosive,
+                emissionFrequency: 0.6,
+                numberOfParticles: 250,
+                gravity: 1,
+                shouldLoop: true,
+                colors: const [
+                  Color(0xFFFF007F),
+                  Color(0xFFFF1493),
+                  Color(0xFFB026FF),
+                  Color(0xFF7DF9FF),
+                  Color(0xFF39FF14),
+                  Color(0xFFFFAA00),
+                  Color(0xFFFF4D00),
+                  Color(0xFFFFD700),
+                  Color(0xFF40E0D0),
+                  Color(0xFFFFA6C9),
+                ],
+              ),
+            ),
+
+            Align(
+              alignment: Alignment.topRight,
+              child: ConfettiWidget(
+                confettiController: confetti,
+                blastDirectionality: BlastDirectionality.explosive,
+                emissionFrequency: 0.6,
+                numberOfParticles: 250,
+                gravity: 1,
+                shouldLoop: true,
+                colors: const [
+                  Color(0xFFFF007F),
+                  Color(0xFFFF1493),
+                  Color(0xFFB026FF),
+                  Color(0xFF7DF9FF),
+                  Color(0xFF39FF14),
+                  Color(0xFFFFAA00),
+                  Color(0xFFFF4D00),
+                  Color(0xFFFFD700),
+                  Color(0xFF40E0D0),
+                  Color(0xFFFFA6C9),
+                ],
+              ),
+            ),
+
+            // Contenido central
+            Center(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  TweenAnimationBuilder<double>(
+                    duration: const Duration(milliseconds: 800),
+                    tween: Tween(begin: 0, end: 1),
+                    curve: Curves.elasticOut,
+                    builder: (context, value, child) {
+                      return Transform.scale(
+                        scale: value,
+                        child: Container(
+                          padding: const EdgeInsets.all(30),
+                          decoration: const BoxDecoration(
+                            shape: BoxShape.circle,
+                            gradient: LinearGradient(
+                              colors: [Color(0xFF00D4AA), Color(0xFF06B6D4)],
+                              begin: Alignment.topLeft,
+                              end: Alignment.bottomRight,
+                            ),
+                          ),
+                          child: const Icon(
+                            Icons.auto_awesome_rounded,
+                            size: 90,
+                            color: Colors.white,
+                          ),
+                        ),
+                      );
+                    },
+                  ),
+                  const SizedBox(height: 28),
+                  Text(
+                    '¡MUY BIEN!',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      fontSize: 48,
+                      fontWeight: FontWeight.w900,
+                      color: Colors.white,
+                      letterSpacing: 2,
+                      shadows: [
+                        Shadow(
+                          color: Colors.black.withOpacity(0.8),
+                          blurRadius: 20,
+                          offset: const Offset(0, 6),
+                        ),
+                      ],
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================
+
+DECLARAR EN LA PANTALLA DEL JUEGO:
+  bool _showCorrectOverlay = false;
+  double _overlayOpacity = 0.0;
+  bool _showWrongOverlay = false;
+  double _wrongOverlayOpacity = 0.0;
+  late ConfettiController _confetti; // controlador del confetti
+
+EN EL INIT STATE:
+    _confetti = ConfettiController(duration: const Duration(milliseconds: 900));
+
+EN EL DISPOSE
+    _confetti.dispose();
+
+FUNCIONES PARA LLAMAR A LOS OVERLAYS:
+Future<void> _showCorrectAndProceed() async {
+    HapticFeedback.heavyImpact();
+    setState(() {
+      _showCorrectOverlay = true;
+      _overlayOpacity = 0.0;
+      _wrongIndices.clear();
+    });
+
+    await Future.delayed(const Duration(milliseconds: 10));
+    setState(() => _overlayOpacity = 1.0);
+    _confetti.play();
+
+    await Future.delayed(const Duration(milliseconds: 2000));
+
+    setState(() => _overlayOpacity = 0.0);
+    await Future.delayed(const Duration(milliseconds: 200));
+
+    if (!mounted) return;
+    setState(() => _showCorrectOverlay = false);
+
+    _loadNextQuestion();
+  }
+
+  Future<void> _showWrongAndNext() async {
+    HapticFeedback.mediumImpact();
+    setState(() {
+      _showWrongOverlay = true;
+      _wrongOverlayOpacity = 0.0;
+      _wrongIndices.clear();
+    });
+
+    await Future.delayed(const Duration(milliseconds: 10));
+    setState(() => _wrongOverlayOpacity = 1.0);
+
+    await Future.delayed(const Duration(milliseconds: 2000));
+
+    setState(() => _wrongOverlayOpacity = 0.0);
+    await Future.delayed(const Duration(milliseconds: 200));
+
+    if (!mounted) return;
+    setState(() {
+      _showWrongOverlay = false;
+    });
+
+    _loadNextQuestion();
+  }

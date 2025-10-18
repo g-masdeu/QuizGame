@@ -1,0 +1,1643 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "science_technology",
+      "name": "Wissenschaft und Technologie",
+      "icon": "science",
+      "color": "#2563EB",
+      "questions": [
+        {
+          "q": "Wofür steht CPU?",
+          "options": [
+            "Schreibtisch",
+            "Kühlschrank",
+            "Zentrale Prozessoreinheit",
+            "Rennrad"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Wofür steht RAM?",
+          "options": [
+            "Straßenkarte",
+            "Angelrute",
+            "Glas Wasser",
+            "Arbeitsspeicher"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Wofür steht URL?",
+          "options": [
+            "U-Bahn-Ticket",
+            "Adresse im Internet",
+            "Kassenbon",
+            "Wetterbericht"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was ist WLAN (Wi‑Fi)?",
+          "options": [
+            "Ein Kartenspiel",
+            "Eine Gemüsesuppe",
+            "Drahtlose Internetverbindung",
+            "Ein Musikinstrument"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was ist Bluetooth?",
+          "options": [
+            "Bergkette",
+            "Funktechnik über kurze Strecken",
+            "Zahnpasta",
+            "Laufwettbewerb"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was ist GPS?",
+          "options": [
+            "Kochrezept",
+            "Schachfigur",
+            "Satellitennavigation",
+            "Taschenrechner"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was ist ein Browser?",
+          "options": [
+            "Fußballschuh",
+            "Regenschirm",
+            "Malpinsel",
+            "Programm zum Surfen im Internet"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Was ist eine Datenbank?",
+          "options": [
+            "Kartoffelsorte",
+            "System zum Speichern von Informationen",
+            "Pflanzenart",
+            "Muskel im Bein"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was ist die Cloud?",
+          "options": [
+            "Wolken am Himmel",
+            "Geräusch einer Trommel",
+            "Computer im Internet zum Speichern",
+            "Ein Brettspiel"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was ist ein Algorithmus?",
+          "options": [
+            "Ein Vogel",
+            "Ein Regenmantel",
+            "Ein Baum",
+            "Abfolge von Schritten zur Lösung"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Was ist ein Betriebssystem?",
+          "options": [
+            "Gummibärchen",
+            "Software, die den Computer steuert",
+            "Schulfach",
+            "Sandspielzeug"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was ist ein PDF?",
+          "options": [
+            "Kartentrick",
+            "Sporteinheit",
+            "Tanzstil",
+            "Dateiformat für Dokumente"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Was ist ein QR‑Code?",
+          "options": [
+            "Teebeutel",
+            "Fahrradteil",
+            "Quadratischer Code für Infos",
+            "Pizza‑Belag"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was ist eine App?",
+          "options": [
+            "Suppenlöffel",
+            "Wolldecke",
+            "Programm für Handy oder Tablet",
+            "Wasserball"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was ist ein Router?",
+          "options": [
+            "Lineal",
+            "Seifenblase",
+            "Sockenpaar",
+            "Gerät, das Internet verteilt"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Was ist ein Firewall?",
+          "options": [
+            "Schutz vor unerwünschten Daten",
+            "Lagerfeuer",
+            "Wandfarbe",
+            "Kühlschrank"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was ist ein Screenshot?",
+          "options": [
+            "Bildschirmfoto",
+            "Einkaufszettel",
+            "Schneeball",
+            "Schuhkarton"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was ist ein Ladegerät?",
+          "options": [
+            "Regal",
+            "Gerät zum Aufladen eines Akkus",
+            "Würfelspiel",
+            "Kopfkissen"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was ist eine Steckdose?",
+          "options": [
+            "Fenstergriff",
+            "Ort zum Anschließen von Stecker",
+            "Fußboden",
+            "Wasserhahn"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was ist ein Passwort?",
+          "options": [
+            "Radiergummi",
+            "Pausenbrot",
+            "Wolkenform",
+            "Geheimes Wort zum Anmelden"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Welches Gerät benutzt man, um Fotos zu machen?",
+          "options": [
+            "Schere",
+            "Kamera",
+            "Löffel",
+            "Hammer"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Welches Gerät benutzt man, um Dokumente zu drucken?",
+          "options": [
+            "Ball",
+            "Topf",
+            "Drucker",
+            "Teller"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Welches Gerät benutzt man, um Text zu tippen?",
+          "options": [
+            "Tastatur",
+            "Seil",
+            "Lineal",
+            "Kamm"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welches Gerät benutzt man, um Computerspiele zu steuern?",
+          "options": [
+            "Vase",
+            "Gabel",
+            "Reisetasche",
+            "Maus"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Welches Gerät benutzt man, um Musik zu hören?",
+          "options": [
+            "Kopfhörer",
+            "Eimer",
+            "Besen",
+            "Schlüssel"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welches Gerät benutzt man, um laut Musik abzuspielen?",
+          "options": [
+            "Bleistift",
+            "Banane",
+            "Buch",
+            "Lautsprecher"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Welches Gerät benutzt man, um im Internet zu surfen?",
+          "options": [
+            "Kerze",
+            "Besen",
+            "Fahrrad",
+            "Browser"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Welches Gerät benutzt man, um Daten zu speichern?",
+          "options": [
+            "Trommel",
+            "USB‑Stick",
+            "Kleber",
+            "Stuhl"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Welches Gerät benutzt man, um Videos aufzunehmen?",
+          "options": [
+            "Würfel",
+            "Zahnbürste",
+            "Kamera",
+            "Kanne"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Welches Gerät benutzt man, um Online zu sprechen?",
+          "options": [
+            "Mikrofon",
+            "Pinsel",
+            "Teller",
+            "Armbanduhr"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welches Gerät benutzt man, um unterwegs zu telefonieren?",
+          "options": [
+            "Tasche",
+            "Ball",
+            "Smartphone",
+            "Regal"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Welches Gerät benutzt man, um Bilder zu zeichnen?",
+          "options": [
+            "Becher",
+            "Tablet",
+            "Pfanne",
+            "Gießkanne"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Welches Gerät benutzt man, um E‑Mails zu lesen?",
+          "options": [
+            "Laptop",
+            "Kochlöffel",
+            "Trillerpfeife",
+            "Schere"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welches davon ist ein Gerät?",
+          "options": [
+            "Besen",
+            "Schuh",
+            "Buch",
+            "Tablet"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Kann ein Smartphone telefonieren?",
+          "options": [
+            "Kommt darauf an",
+            "Nein",
+            "Ja",
+            "Manchmal"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Ist eine Maus ein Computerteil?",
+          "options": [
+            "Ja",
+            "Nein",
+            "Manchmal",
+            "Kommt darauf an"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Ist ein Besen ein Computer?",
+          "options": [
+            "Kommt darauf an",
+            "Nein",
+            "Ja",
+            "Manchmal"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Braucht WLAN immer ein Kabel zum Handy?",
+          "options": [
+            "Kommt darauf an",
+            "Manchmal",
+            "Nein",
+            "Ja"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Ist Bluetooth kabellos?",
+          "options": [
+            "Nein",
+            "Kommt darauf an",
+            "Ja",
+            "Manchmal"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Ist ein Passwort öffentlich?",
+          "options": [
+            "Nein",
+            "Manchmal",
+            "Kommt darauf an",
+            "Ja"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Kann ein Drucker Papier bedrucken?",
+          "options": [
+            "Nein",
+            "Manchmal",
+            "Ja",
+            "Kommt darauf an"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Ist eine Gabel ein Gerät zum Speichern von Daten?",
+          "options": [
+            "Kommt darauf an",
+            "Ja",
+            "Nein",
+            "Manchmal"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Ist ein Browser zum Surfen im Internet da?",
+          "options": [
+            "Nein",
+            "Ja",
+            "Kommt darauf an",
+            "Manchmal"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Ist ein Mikrofon zum Hören da?",
+          "options": [
+            "Kommt darauf an",
+            "Manchmal",
+            "Nein",
+            "Ja"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Welches Gerät hilft dir, Bilder zu drucken?",
+          "options": [
+            "Apfel",
+            "Drucker",
+            "Teller",
+            "Seil"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Welches Gerät hilft dir, Töne aufzunehmen?",
+          "options": [
+            "Löffel",
+            "Apfel",
+            "Mikrofon",
+            "Glas"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Welches Gerät hilft dir, ein Dokument zu tippen?",
+          "options": [
+            "Tastatur",
+            "Buch",
+            "Trommel",
+            "Seil"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welches Gerät hilft dir, die Zeiger zu sehen?",
+          "options": [
+            "Banane",
+            "Monitor",
+            "Notizbuch",
+            "Teller"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Welches Gerät hilft dir, ins Internet zu kommen?",
+          "options": [
+            "Apfel",
+            "Notizbuch",
+            "Banane",
+            "Router"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Welches Gerät hilft dir, unterwegs zu lesen?",
+          "options": [
+            "Tablet",
+            "Seil",
+            "Kissen",
+            "Blume"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welches Gerät hilft dir, Hausaufgaben zu schreiben?",
+          "options": [
+            "Blume",
+            "Glas",
+            "Apfel",
+            "Laptop"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Welches Gerät hilft dir, Musik ohne Kabel zu hören?",
+          "options": [
+            "Schere",
+            "Trommel",
+            "Ball",
+            "Kopfhörer"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Welches Gerät hilft dir, Fotos von Freunden zu machen?",
+          "options": [
+            "Teller",
+            "Kamera",
+            "Notizbuch",
+            "Besen"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Welches Gerät hilft dir, Dateien zu speichern?",
+          "options": [
+            "Seil",
+            "Notizbuch",
+            "Festplatte",
+            "Teller"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "arts_literature",
+      "name": "Kunst und Literatur",
+      "icon": "palette",
+      "color": "#9333EA",
+      "questions": [
+        {
+          "q": "Welches ist ein literarisches Genre?",
+          "options": [
+            "Roman",
+            "Pfanne",
+            "Regenschirm",
+            "Auto"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welches benutzt man zum Malen oder Zeichnen?",
+          "options": [
+            "Pfanne",
+            "Pinsel",
+            "Besen",
+            "Gabel"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Wo leiht man Bücher aus?",
+          "options": [
+            "Stadion",
+            "Garage",
+            "Bibliothek",
+            "Bäckerei"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Womit schreibt man?",
+          "options": [
+            "Löffel",
+            "Feuerzeug",
+            "Schlüssel",
+            "Bleistift"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was ist ein Illustrator?",
+          "options": [
+            "Jemand, der kocht",
+            "Jemand, der Bilder zeichnet",
+            "Jemand, der Mauern baut",
+            "Jemand, der Rennen fährt"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Farbe entsteht aus Blau und Gelb?",
+          "options": [
+            "Orange",
+            "Lila",
+            "Braun",
+            "Grün"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Farbe entsteht aus Rot und Gelb?",
+          "options": [
+            "Grau",
+            "Orange",
+            "Lila",
+            "Grün"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welches ist ein Musikinstrument?",
+          "options": [
+            "Mixer",
+            "Helm",
+            "Toaster",
+            "Gitarre"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Woraus besteht ein Buch?",
+          "options": [
+            "Wasser",
+            "Räder",
+            "Seiten",
+            "Blätterteig"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Wozu dient ein Umschlag eines Buches?",
+          "options": [
+            "Zum Trinken",
+            "Schützt und zeigt den Titel",
+            "Zum Kochen",
+            "Zum Werfen"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Ist ein Gedicht meist kurz?",
+          "options": [
+            "Ja",
+            "Kommt darauf an",
+            "Nein",
+            "Manchmal"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welches Hilfsmittel ist gut zum ausmalen?",
+          "options": [
+            "Klebeband",
+            "Seil",
+            "Lineal",
+            "Wasserfarben"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Welches Hilfsmittel ist gut zum zeichnen feiner linien?",
+          "options": [
+            "Gabel",
+            "Bleistift",
+            "Schaufel",
+            "Lineal"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Welches Hilfsmittel ist gut zum korrigieren?",
+          "options": [
+            "Gabel",
+            "Pfanne",
+            "Radiergummi",
+            "Seil"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Welches Hilfsmittel ist gut zum malen großer flächen?",
+          "options": [
+            "Gabel",
+            "Hammer",
+            "Pinsel",
+            "Lineal"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Welches Hilfsmittel ist gut zum schreiben in der schule?",
+          "options": [
+            "Seil",
+            "Bleistift",
+            "Pfanne",
+            "Gabel"
+          ],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Sport",
+      "icon": "sports_soccer",
+      "color": "#EF4444",
+      "questions": [
+        {
+          "q": "Welcher Sport benutzt einen Ball und ein Tor?",
+          "options": [
+            "Eislaufen",
+            "Schwimmen",
+            "Skifahren",
+            "Fußball"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Sportart spielt man im Wasser?",
+          "options": [
+            "Schwimmen",
+            "Judo",
+            "Basketball",
+            "Turnen"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Sportart braucht ein Netz über der Mitte?",
+          "options": [
+            "Volleyball",
+            "Ringen",
+            "Fechten",
+            "Boxen"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Wie viele Spieler pro Team stehen beim Fußball auf dem Feld?",
+          "options": [
+            "11",
+            "5",
+            "9",
+            "7"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Womit schlägt man beim Tennis den Ball?",
+          "options": [
+            "Mit einer Gabel",
+            "Mit einer Pfanne",
+            "Mit einer Schläger",
+            "Mit einem Helm"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Sportart nutzt Handschuhe zum Schützen und Schlagen?",
+          "options": [
+            "Schwimmen",
+            "Boxen",
+            "Radfahren",
+            "Rudern"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Sportart fährt man auf zwei Rädern?",
+          "options": [
+            "Fechten",
+            "Turnen",
+            "Radfahren",
+            "Rudern"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Sportart macht man auf Schnee mit Brettern?",
+          "options": [
+            "Schwimmen",
+            "Basketball",
+            "Judo",
+            "Skifahren"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Sportart spielt man mit einem orangefarbenen Ball und Korb?",
+          "options": [
+            "Basketball",
+            "Handball",
+            "Tennis",
+            "Fußball"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was braucht man typischerweise für Fußball?",
+          "options": [
+            "Ball",
+            "Buch",
+            "Gabel",
+            "Topf"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was braucht man typischerweise für Eishockey?",
+          "options": [
+            "Buch",
+            "Kamm",
+            "Topf",
+            "Schläger"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Was braucht man typischerweise für Boxen?",
+          "options": [
+            "Kissen",
+            "Seil",
+            "Handschuhe",
+            "Kamm"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was braucht man typischerweise für Schwimmen?",
+          "options": [
+            "Gabel",
+            "Kamm",
+            "Wasser",
+            "Buch"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was braucht man typischerweise für Badminton?",
+          "options": [
+            "Kamm",
+            "Federball",
+            "Seil",
+            "Topf"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was braucht man typischerweise für Tischtennis?",
+          "options": [
+            "Seil",
+            "Pfanne",
+            "Schläger",
+            "Buch"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was braucht man typischerweise für Golf?",
+          "options": [
+            "Schläger",
+            "Gabel",
+            "Kissen",
+            "Pfanne"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was braucht man typischerweise für Baseball?",
+          "options": [
+            "Schläger",
+            "Kamm",
+            "Gabel",
+            "Topf"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was braucht man typischerweise für Fechten?",
+          "options": [
+            "Gabel",
+            "Degen",
+            "Pfanne",
+            "Topf"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Ist Schwimmen ein Wassersport?",
+          "options": [
+            "Manchmal",
+            "Nein",
+            "Kommt darauf an",
+            "Ja"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Sind Schlittschuhe für Eis gedacht?",
+          "options": [
+            "Manchmal",
+            "Kommt darauf an",
+            "Nein",
+            "Ja"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Braucht man zum Laufen ein Boot?",
+          "options": [
+            "Kommt darauf an",
+            "Manchmal",
+            "Nein",
+            "Ja"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Zählt Basketball zu den Teamsportarten?",
+          "options": [
+            "Manchmal",
+            "Ja",
+            "Nein",
+            "Kommt darauf an"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Wird Fußball im Wasser gespielt?",
+          "options": [
+            "Ja",
+            "Kommt darauf an",
+            "Manchmal",
+            "Nein"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Welche davon ist eine Sportart?",
+          "options": [
+            "Fußball",
+            "Schlafen",
+            "Essen",
+            "Kochen"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Geografie",
+      "icon": "public",
+      "color": "#10B981",
+      "questions": [
+        {
+          "q": "Welche Stadt ist die Hauptstadt von Deutschland?",
+          "options": [
+            "München",
+            "Berlin",
+            "Hamburg",
+            "Köln"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Stadt ist die Hauptstadt von Frankreich?",
+          "options": [
+            "Paris",
+            "Marseille",
+            "Lyon",
+            "Nizza"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Stadt ist die Hauptstadt von Spanien?",
+          "options": [
+            "Sevilla",
+            "Madrid",
+            "Barcelona",
+            "Valencia"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Stadt ist die Hauptstadt von Italien?",
+          "options": [
+            "Mailand",
+            "Rom",
+            "Neapel",
+            "Turin"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Stadt ist die Hauptstadt von Japan?",
+          "options": [
+            "Tokio",
+            "Nagoya",
+            "Kyoto",
+            "Osaka"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welcher Ozean ist der größte?",
+          "options": [
+            "Atlantik",
+            "Arktischer Ozean",
+            "Indischer Ozean",
+            "Pazifik"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welcher Kontinent ist in der Liste enthalten?",
+          "options": [
+            "Atlantik",
+            "Sahara",
+            "Asien",
+            "Nordsee"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welcher ist ein großer Fluss?",
+          "options": [
+            "Nil",
+            "Alpen",
+            "Sahara",
+            "Südpol"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welches Meer liegt östlich von Spanien?",
+          "options": [
+            "Ostsee",
+            "Mittelmeer",
+            "Nordsee",
+            "Karibik"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Gibt es vier Himmelsrichtungen?",
+          "options": [
+            "Ja",
+            "Manchmal",
+            "Nein",
+            "Kommt darauf an"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Ist die Erde flach?",
+          "options": [
+            "Kommt darauf an",
+            "Nein",
+            "Ja",
+            "Manchmal"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Liegt die Sahara in Afrika?",
+          "options": [
+            "Nein",
+            "Ja",
+            "Manchmal",
+            "Kommt darauf an"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Ist ein See größer als ein Ozean?",
+          "options": [
+            "Manchmal",
+            "Nein",
+            "Kommt darauf an",
+            "Ja"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Ist der Nordpol sehr kalt?",
+          "options": [
+            "Kommt darauf an",
+            "Nein",
+            "Manchmal",
+            "Ja"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Was ist die Hauptstadt von Portugal?",
+          "options": [
+            "Barcelona",
+            "Berlin",
+            "Sydney",
+            "Lissabon"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Was ist die Hauptstadt von Vereinigtes Königreich?",
+          "options": [
+            "Rom",
+            "London",
+            "Berlin",
+            "New York"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was ist die Hauptstadt von Kanada?",
+          "options": [
+            "Athen",
+            "Ottawa",
+            "Paris",
+            "New York"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was ist die Hauptstadt von Australien?",
+          "options": [
+            "Canberra",
+            "Hamburg",
+            "Athen",
+            "New York"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was ist die Hauptstadt von Brasilien?",
+          "options": [
+            "Brasília",
+            "Barcelona",
+            "Paris",
+            "Rom"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was ist die Hauptstadt von Mexiko?",
+          "options": [
+            "Hamburg",
+            "Mexiko‑Stadt",
+            "Paris",
+            "München"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was ist die Hauptstadt von Argentinien?",
+          "options": [
+            "Buenos Aires",
+            "München",
+            "Kapstadt",
+            "Sydney"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was ist die Hauptstadt von Chile?",
+          "options": [
+            "Sydney",
+            "Kapstadt",
+            "Athen",
+            "Santiago"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Was ist die Hauptstadt von Peru?",
+          "options": [
+            "Athen",
+            "Lima",
+            "Berlin",
+            "München"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was ist die Hauptstadt von Marokko?",
+          "options": [
+            "Berlin",
+            "New York",
+            "Rabat",
+            "Hamburg"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was ist die Hauptstadt von Ägypten?",
+          "options": [
+            "Toronto",
+            "Rom",
+            "Paris",
+            "Kairo"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Was ist die Hauptstadt von Türkei?",
+          "options": [
+            "Ankara",
+            "Sydney",
+            "Kapstadt",
+            "Berlin"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was ist die Hauptstadt von Griechenland?",
+          "options": [
+            "Kapstadt",
+            "Hamburg",
+            "Athen",
+            "Berlin"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was ist die Hauptstadt von Russland?",
+          "options": [
+            "Barcelona",
+            "New York",
+            "Moskau",
+            "Paris"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was ist die Hauptstadt von China?",
+          "options": [
+            "New York",
+            "Peking",
+            "Hamburg",
+            "Athen"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was ist die Hauptstadt von Indien?",
+          "options": [
+            "Sydney",
+            "Kapstadt",
+            "Neu‑Delhi",
+            "München"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was ist die Hauptstadt von USA?",
+          "options": [
+            "Hamburg",
+            "Barcelona",
+            "Berlin",
+            "Washington, D.C."
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Welches davon ist ein Kontinent?",
+          "options": [
+            "Europa",
+            "Pazifik",
+            "Atlantik",
+            "Sahara"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "Geschichte",
+      "icon": "history",
+      "color": "#8B5CF6",
+      "questions": [
+        {
+          "q": "Lebten Dinosaurier lange vor den Menschen?",
+          "options": [
+            "Nein",
+            "Ja",
+            "Manchmal",
+            "Kommt darauf an"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Wurden die Pyramiden in Ägypten gebaut?",
+          "options": [
+            "Kommt darauf an",
+            "Manchmal",
+            "Nein",
+            "Ja"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Kam die Schrift vor dem Smartphone?",
+          "options": [
+            "Manchmal",
+            "Nein",
+            "Kommt darauf an",
+            "Ja"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "War das Rad eine wichtige Erfindung?",
+          "options": [
+            "Nein",
+            "Kommt darauf an",
+            "Ja",
+            "Manchmal"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Ist ein Museum ein Ort mit Dingen aus der Vergangenheit?",
+          "options": [
+            "Ja",
+            "Manchmal",
+            "Nein",
+            "Kommt darauf an"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Wer erfand die Glühbirne (bekannte Version)?",
+          "options": [
+            "Albert Einstein",
+            "Thomas Edison",
+            "Leonardo da Vinci",
+            "Isaac Newton"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Welche Erfindung half, schnell viele Bücher zu drucken?",
+          "options": [
+            "Druckerpresse",
+            "Staubsauger",
+            "Fernseher",
+            "Telefon"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Womit schrieben Menschen früher auf Papier?",
+          "options": [
+            "Gürtel",
+            "Gießkanne",
+            "Gabel",
+            "Feder und Tinte"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Was trugen Ritter im Mittelalter?",
+          "options": [
+            "Handschuhe fürs Backen",
+            "Rüstung",
+            "Badehose",
+            "Ballettschuhe"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Welche Erfindung half, weit zu reisen?",
+          "options": [
+            "Wasserkocher",
+            "Dampflok",
+            "Trompete",
+            "Malkasten"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Passierte die Dinosaurier vor die ersten Menschen?",
+          "options": [
+            "Ja",
+            "Manchmal",
+            "Kommt darauf an",
+            "Nein"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Passierte die Erfindung des Rades vor das erste Handy?",
+          "options": [
+            "Manchmal",
+            "Kommt darauf an",
+            "Ja",
+            "Nein"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Passierte die ersten Boote vor das Flugzeug?",
+          "options": [
+            "Nein",
+            "Kommt darauf an",
+            "Manchmal",
+            "Ja"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Passierte die ersten Städte vor das Internet?",
+          "options": [
+            "Kommt darauf an",
+            "Manchmal",
+            "Nein",
+            "Ja"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Passierte die Höhlenmalerei vor die Kamera?",
+          "options": [
+            "Manchmal",
+            "Kommt darauf an",
+            "Ja",
+            "Nein"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "cinema",
+      "name": "Kino",
+      "icon": "movie",
+      "color": "#F59E0B",
+      "questions": [
+        {
+          "q": "Was sieht man im Kino auf der Leinwand?",
+          "options": [
+            "Wetter",
+            "Filme",
+            "Hausaufgaben",
+            "Straßenkarten"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was isst man oft im Kino?",
+          "options": [
+            "Suppe",
+            "Spaghetti",
+            "Popcorn",
+            "Salat"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Wer spielt eine Rolle in einem Film?",
+          "options": [
+            "Lehrerin",
+            "Schiedsrichter",
+            "Bäcker",
+            "Schauspielerin oder Schauspieler"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Wer sagt am Set: „Klappe! Und bitte!“?",
+          "options": [
+            "Regisseur/Regisseurin",
+            "Arzt/Ärztin",
+            "Pilot/Pilotin",
+            "Torwart"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Wozu dient eine Filmklappe?",
+          "options": [
+            "Papier zu schneiden",
+            "Ton und Bild zu markieren",
+            "Fenster zu öffnen",
+            "Popcorn zu schöpfen"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Womit projiziert man einen Film im Kino?",
+          "options": [
+            "Bohrer",
+            "Projektor",
+            "Mixer",
+            "Mikroskop"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was macht eine Kamera?",
+          "options": [
+            "Bläst Luft auf",
+            "Schneidet Holz",
+            "Filmt oder fotografiert",
+            "Kocht Suppe"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Wie nennt man die Leute, die einen Film anschauen?",
+          "options": [
+            "Publikum",
+            "Chor",
+            "Mannschaft",
+            "Schiedsrichter"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was braucht man, um einen Film zu drehen?",
+          "options": [
+            "Ball",
+            "Kamera",
+            "Pfanne",
+            "Gabel"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was braucht man, um den Ton aufzunehmen?",
+          "options": [
+            "Regenschirm",
+            "Pfanne",
+            "Mikrofon",
+            "Ball"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Was braucht man, um das Licht zu machen?",
+          "options": [
+            "Scheinwerfer",
+            "Pfanne",
+            "Teller",
+            "Toaster"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Was braucht man, um den Film abzuspielen?",
+          "options": [
+            "Gabel",
+            "Projektor",
+            "Ball",
+            "Teller"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Was braucht man, um den Text einer Rolle zu lernen?",
+          "options": [
+            "Toaster",
+            "Pfanne",
+            "Regenschirm",
+            "Drehbuch"
+          ],
+          "answer_index": 3
+        },
+        {
+          "q": "Wird ein Film aus vielen Bildern gemacht?",
+          "options": [
+            "Ja",
+            "Nein",
+            "Kommt darauf an",
+            "Manchmal"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Ist Popcorn ein Getränk?",
+          "options": [
+            "Kommt darauf an",
+            "Nein",
+            "Ja",
+            "Manchmal"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Gibt es in einem Kino einen großen Bildschirm?",
+          "options": [
+            "Ja",
+            "Manchmal",
+            "Nein",
+            "Kommt darauf an"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Ist eine Pfanne ein Filmgerät?",
+          "options": [
+            "Nein",
+            "Ja",
+            "Manchmal",
+            "Kommt darauf an"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Welche Person arbeitet typischerweise bei einem Film?",
+          "options": [
+            "Regisseur/Regisseurin",
+            "Briefträger/Briefträgerin",
+            "Gärtner/Gärtnerin",
+            "Mechaniker/Mechanikerin"
+          ],
+          "answer_index": 0
+        }
+      ]
+    }
+  ]
+}

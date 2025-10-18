@@ -1,0 +1,1793 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "science_technology",
+      "name": "Zientzia eta Teknologia",
+      "icon": "science",
+      "color": "#2563EB",
+      "questions": [
+        {
+          "q": "Zer esan nahi du CPUk?",
+          "options": [
+            "Unitate Zentrala",
+            "Kamera Handia",
+            "Pantaila Txikia",
+            "Soinu‑kaxa"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer esan nahi du RAMek?",
+          "options": [
+            "Memoria ausazko sarbidea",
+            "Erloju azkarra",
+            "Mapa digitala",
+            "Kable mota bat"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "URL batek zer adierazten du?",
+          "options": [
+            "Helbide web bat",
+            "Argazki formatua",
+            "Ahots mezua",
+            "Soinu nota"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da Wi‑Fi?",
+          "options": [
+            "Internetera hari gabe konektatzeko modua",
+            "Jolas bat",
+            "Txanpon digitala",
+            "Inprimagailu mota"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da Bluetooth?",
+          "options": [
+            "Hari gabeko konexioa hurbil",
+            "Argi motorea",
+            "Bateriaren izena",
+            "Pantailaren izena"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da GPS?",
+          "options": [
+            "Satelitez nabigatzeko sistema",
+            "Irudi editorea",
+            "Mikrofonoa",
+            "Disko gogorra"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da hodeia (cloud)?",
+          "options": [
+            "Urruneko zerbitzarietan datuak gordetzea",
+            "Euri‑aplikazioa",
+            "Zeru kolorea",
+            "Kable mota bat"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da algoritmo bat?",
+          "options": [
+            "Arazo bat konpontzeko pausoz‑pauso",
+            "Marrazki bat",
+            "Ogi mota bat",
+            "Kirol bat"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer egiten du antibirus batek?",
+          "options": [
+            "Birusa bilatu eta ezabatu",
+            "Soinua handitu",
+            "Pantaila garbitu",
+            "Argia piztu"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da sistema eragilea?",
+          "options": [
+            "Ordenagailua kudeatzen duen softwarea",
+            "Sagua",
+            "Kable bat",
+            "Bozgorailua"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da datu‑base bat?",
+          "options": [
+            "Informazioa gordetzeko sistema",
+            "Irudi‑kamerak",
+            "Teklatu berezia",
+            "Paperezko karpeta"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "PDF zer da?",
+          "options": [
+            "Dokumentu formato eramangarria",
+            "Bideo kamera",
+            "Telefono eramangarria",
+            "Bozgorailu eramangarria"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "QR kodea zertarako da?",
+          "options": [
+            "Kamerarekin irakurtzeko kode azkarra",
+            "Musika‑fitxategia",
+            "Ordenagailu motorea",
+            "Argazki iragazkia"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da SSD?",
+          "options": [
+            "Egoera solidoko unitatea",
+            "Pantaila malgua",
+            "Soinu‑txartela",
+            "USB kablea"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Mikroskopioa zertarako da?",
+          "options": [
+            "Txikia dena ikusteko",
+            "Ohean lo egiteko",
+            "Musika entzuteko",
+            "Argazkiak inprimatzeko"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Teleskopioa zertarako da?",
+          "options": [
+            "Urruti dagoena ikusteko",
+            "Sukaldean egosteko",
+            "Ura berotzeko",
+            "Kirola egiteko"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Termometroak zer neurtzen du?",
+          "options": [
+            "Tenperatura",
+            "Pisua",
+            "Luzera",
+            "Denbora"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Balantzak zer neurtzen du?",
+          "options": [
+            "Pisua",
+            "Abiadura",
+            "Tentsioa",
+            "Argitasuna"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein molekulak gordetzen du informazio genetikoa?",
+          "options": [
+            "ADNak",
+            "Ura",
+            "Gatza",
+            "Azukrea"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein unitatek neurtzen du luzera?",
+          "options": [
+            "Metroak",
+            "Kilogramoak",
+            "Segunduak",
+            "Wattak"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da HTML?",
+          "options": [
+            "Markaketa‑hizkuntza",
+            "Kirol mota",
+            "Janari beroa",
+            "Hiztegi bat"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da Python?",
+          "options": [
+            "Programazio‑hizkuntza",
+            "Hegazkin mota",
+            "Animalia mitikoa",
+            "Jantzi bat"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Eguzkia izarra da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Lurra Eguzkiaren inguruan biratzen da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Ura H₂O da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Teklatua sarrera‑gailua da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Monitorea irteera‑gailua da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Bluetoothak kableak behar ditu?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "QR kodeak kamerarekin irakur daitezke?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Tablet bat ukipen‑pantailadun gailua da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "arts_literature",
+      "name": "Artea eta Literatura",
+      "icon": "palette",
+      "color": "#9333EA",
+      "questions": [
+        {
+          "q": "Nor idatzi zuen «Don Quijote de la Mancha»?",
+          "options": [
+            "Miguel de Cervantes",
+            "William Shakespeare",
+            "Borges",
+            "Kafka"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Nor idatzi zuen «El Principito»?",
+          "options": [
+            "Antoine de Saint‑Exupéry",
+            "Jane Austen",
+            "Borges",
+            "Neruda"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Nor idatzi zuen «1984»?",
+          "options": [
+            "George Orwell",
+            "Cervantes",
+            "García Márquez",
+            "Pablo Neruda"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Nork margotu zuen «La Mona Lisa»?",
+          "options": [
+            "Leonardo da Vinci",
+            "Picasso",
+            "Van Gogh",
+            "Velázquez"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Nork margotu zuen «Guernica»?",
+          "options": [
+            "Pablo Picasso",
+            "Monet",
+            "Dalí",
+            "Van Gogh"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Nork margotu zuen «La noche estrellada»?",
+          "options": [
+            "Vincent van Gogh",
+            "Sorolla",
+            "Rafael",
+            "Goya"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da surrealismoa?",
+          "options": [
+            "Ametsetakoa aztertzen duen mugimendua",
+            "Piraten abestia",
+            "Kirol berria",
+            "Janari mota"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da inpresionismoa?",
+          "options": [
+            "Argia eta ukitu azkarrak erabiltzen dituen mugimendua",
+            "Komedien multzoa",
+            "Argazki zaharrak",
+            "Antzerki mota bat"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da kubismoa?",
+          "options": [
+            "Irudiak forma geometrikoetan zatitzen dituena",
+            "Ur‑koloreak",
+            "Ipuin laburrak",
+            "Poesia errimatua"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Errenazimentua non hasi zen?",
+          "options": [
+            "Italian",
+            "Mexikon",
+            "Australian",
+            "Islandian"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Eleberria genero literarioa da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Poesia genero literarioa da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Antzerkia genero literarioa da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Ipuina genero literarioa da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Entsegua genero literarioa da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Olioa margotzeko teknika da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Akuarela margotzeko teknika da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer da soneto bat?",
+          "options": [
+            "14 bertso dituen poema",
+            "Kandela mota",
+            "Dantza",
+            "Txirula"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "«Orgullo y prejuicio» nork idatzi zuen?",
+          "options": [
+            "Jane Austen",
+            "Mary Shelley",
+            "Virginia Woolf",
+            "Emily Brontë"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "«Azken afaria» nork margotu zuen?",
+          "options": [
+            "Leonardo da Vinci",
+            "Rafael",
+            "Miguel Ángel",
+            "Monet"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Monetek zein mugimendutan lan egin zuen?",
+          "options": [
+            "Inpresionismoa",
+            "Kubismoa",
+            "Barrokoa",
+            "Surrealismoa"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "«El Aleph» egilea nor da?",
+          "options": [
+            "Jorge Luis Borges",
+            "Rubén Darío",
+            "Pablo Neruda",
+            "Octavio Paz"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Haikua jatorriz japonierazko poema laburra da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Barrokoa Errenazimentuaren ondoren etorri zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Shakespearek «Romeo eta Julieta» idatzi zuen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Van Gogh‑ek «La Gioconda» margotu zuen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "«Las Meninas» nork margotu zuen?",
+          "options": [
+            "Diego Velázquez",
+            "Goya",
+            "Rafael",
+            "Picasso"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "«La persistencia de la memoria» nork margotu zuen?",
+          "options": [
+            "Salvador Dalí",
+            "Miró",
+            "Renoir",
+            "Monet"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "«El nacimiento de Venus» nork margotu zuen?",
+          "options": [
+            "Sandro Botticelli",
+            "Goya",
+            "Rafael",
+            "Dalí"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Satira narrazioaren azpigeneroa da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Kirolak",
+      "icon": "sports_soccer",
+      "color": "#EF4444",
+      "questions": [
+        {
+          "q": "Futbolean zenbat jokalari daude zelai‑aldean talde bakoitzean?",
+          "options": [
+            "11",
+            "10",
+            "12",
+            "9"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein kiroletan erabiltzen da saskia eta taula?",
+          "options": [
+            "Saskibaloia",
+            "Futbola",
+            "Tenisa",
+            "Boleibola"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Beisbolan zer erabiltzen da pilota jotzeko?",
+          "options": [
+            "Bata",
+            "Makila mehea",
+            "Raqueta",
+            "Eskularrua"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Futbolean zein kolorek adierazten du kanporaketa zuzena?",
+          "options": [
+            "Gorria",
+            "Horia",
+            "Urdina",
+            "Berdea"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Futbolean, atezaina ez bada, eskuak erabili daitezke?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Futbola talde‑kirola da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Saskibaloia talde‑kirola da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Boleibola eskuarekin jokatzen da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Errugbian baloia eskuz aurrera pasa daiteke?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Saskibaloian hiruko batek 3 puntu balio ditu?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Igeriketa kirola izotz pistan egiten da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Tenisa non jokatzen da?",
+          "options": [
+            "Pistan",
+            "Igerilekuan",
+            "Ringean",
+            "Tatamian"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Judoa non egiten da?",
+          "options": [
+            "Tatamian",
+            "Pistan",
+            "Ringean",
+            "Zelaian"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Hasierako kolpea tenisean nola deitzen da?",
+          "options": [
+            "Sakea",
+            "Errematea",
+            "Blokeoa",
+            "Pasea"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Futbol partida batek 90 minutu irauten du (gehigarririk gabe)?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Offside araua saskibaloian existitzen da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Beisbolen jokalaria non jartzen da jotzeko?",
+          "options": [
+            "Home platean",
+            "Aulkian",
+            "Area teknikoan",
+            "Aretoan"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein kiroletan dago metalezko eraztuna eta sare zintzilik?",
+          "options": [
+            "Saskibaloia",
+            "Boleibola",
+            "Futbola",
+            "Badminthona"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Maratoia 42,195 km egitea da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Golfean baloia erabiltzen da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Uretan jokatzen den taldekako kirola da waterpoloa?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Mahai‑tenisean pilota erabiltzen da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Eskriman ez da baloirik erabiltzen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Boxeoan baloirik erabiltzen da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Patinajea izotzean edo lurrean egin daiteke?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 2
+        },
+        {
+          "q": "Arraunean baloirik erabiltzen da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Surfa uretan egiten da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Snowboarda elurretan egiten da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Eskia elurretan egiten da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Geografia",
+      "icon": "public",
+      "color": "#10B981",
+      "questions": [
+        {
+          "q": "Zein da Espainiako hiriburua?",
+          "options": [
+            "Madril",
+            "Bartzelona",
+            "Paris",
+            "Bilbo"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein da Frantziako hiriburua?",
+          "options": [
+            "Paris",
+            "Londres",
+            "Lima",
+            "Lisboa"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein da Italiako hiriburua?",
+          "options": [
+            "Erroma",
+            "Milan",
+            "Napoli",
+            "Turin"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein da Alemaniako hiriburua?",
+          "options": [
+            "Berlin",
+            "Munich",
+            "Bonn",
+            "Frankfurt"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein da Portugalgo hiriburua?",
+          "options": [
+            "Lisboa",
+            "Porto",
+            "Coimbra",
+            "Braga"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein da Mexikoko hiriburua?",
+          "options": [
+            "Mexiko Hiria",
+            "Guadalajara",
+            "Monterrey",
+            "Puebla"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein da Argentinako hiriburua?",
+          "options": [
+            "Buenos Aires",
+            "Cordoba",
+            "Rosario",
+            "Mendoza"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein da Brasilgo hiriburua?",
+          "options": [
+            "Brasilia",
+            "Rio de Janeiro",
+            "Sao Paulo",
+            "Salvador"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein da Txileko hiriburua?",
+          "options": [
+            "Santiago",
+            "Valparaiso",
+            "Concepcion",
+            "La Serena"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein da Peruko hiriburua?",
+          "options": [
+            "Lima",
+            "Cusco",
+            "Arequipa",
+            "Trujillo"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein da Japonia hiriburua?",
+          "options": [
+            "Tokio",
+            "Osaka",
+            "Kioto",
+            "Nagoya"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein da Erresuma Batuko hiriburua?",
+          "options": [
+            "Londres",
+            "Manchester",
+            "Edinburgo",
+            "Cardiff"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Ozeano handiena zein da?",
+          "options": [
+            "Pazifikoa",
+            "Atlantikoa",
+            "Indikoa",
+            "Artikoa"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Nilo zer da?",
+          "options": [
+            "Afrikako ibaia",
+            "Europako mendia",
+            "Asiako aintzira",
+            "Ozeano bat"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Munduko tontor altuena zein da (itsas mailatik)?",
+          "options": [
+            "Everest",
+            "K2",
+            "Mont Blanc",
+            "Kilimanjaro"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein itsasok bustitzen du Espainiako ekialdea?",
+          "options": [
+            "Mediterraneoa",
+            "Itsaso Beltza",
+            "Itsaso Baltikoa",
+            "Ipar Itsasoa"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Europa kontinente bat da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Asia kontinente bat da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Afrika kontinente bat da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Amerika kontinente bat da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Ozeania kontinente bat da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Antartika kontinente bat da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Errusia azalera handiena duen herrialdea da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Sahara basamortua da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Amazonas ozeanoa da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Mediterraneoa itsaso bat da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Pirinioak mendikatea dira?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Erlauntza beltza Afrika dago?",
+          "options": [
+            "Ez",
+            "Bai",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Ipar hemisferioan negua hotza izaten da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 2
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "Historia",
+      "icon": "history",
+      "color": "#8B5CF6",
+      "questions": [
+        {
+          "q": "Noiz iritsi zen Kristobal Kolon Amerikara?",
+          "options": [
+            "1492",
+            "1500",
+            "1453",
+            "1519"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein horma erori zen 1989an?",
+          "options": [
+            "Berlingo Horma",
+            "Txinako Horma",
+            "Adrianoren Horma",
+            "Maginot"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Alejandro Handia nor izan zen?",
+          "options": [
+            "Mazedoniar konkistatzailea",
+            "Errege britainiarra",
+            "Erromatar idazlea",
+            "Egiptoko apaiza"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer asmakizunek ahalbidetu zuen liburuak seriean inprimatzea Europan?",
+          "options": [
+            "Mugikorren inprenta",
+            "Luma magikoa",
+            "Abiadura‑trenak",
+            "Telefonoa"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein misioak eraman zituen gizakiak Ilargira lehen aldiz?",
+          "options": [
+            "Apolo 11",
+            "Apolo 13",
+            "Apolo 8",
+            "Apolo 17"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Erdi Aroa Errenazimentuaren aurretik gertatu zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Iraultza Frantsesa 1789an hasi zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Erromatar Inperioaren hiriburua Erroma izan zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Lehen Mundu Gerra 1939an hasi zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Antzinako Egipto Nilo ibaiaren inguruan garatu zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Kuneiformea Txinan sortu zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Erromako lehen enperadorea nor izan zen?",
+          "options": [
+            "Augusto",
+            "Nerón",
+            "Trajano",
+            "Julio Zesar"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Inken hiriburua zein izan zen?",
+          "options": [
+            "Cusco",
+            "Quito",
+            "Lima",
+            "La Paz"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Napoleon XIX. mendeko frantziar buruzagia izan zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Barutza Txinan asmatu zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Izurri beltza Erdi Aroan gertatu zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Gutenberg Europan lotzen da inprentarekin?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Gerra Hotza Estatu Batuen eta SESBren arteko borroka zuzen armatua izan zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Magna Carta Ingalaterrako dokumentu historikoa da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Errenazimentua Italian hasi zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zeta Bideak Asia eta Europa lotzen zituen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Industria Iraultza Erresuma Batuan hasi zen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Maiak Mesoamerikan bizi izan ziren?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Bikingoak Afrikakoak ziren?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Egipto Antzinakoa piramideengatik ezaguna da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Erromatar legioak soldaduak ziren?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Paperaren jatorria Txinan dago?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    {
+      "id": "cinema",
+      "name": "Zinema",
+      "icon": "movie",
+      "color": "#F59E0B",
+      "questions": [
+        {
+          "q": "Nork zuzendu zuen «Titanic» (1997)?",
+          "options": [
+            "James Cameron",
+            "Steven Spielberg",
+            "Peter Jackson",
+            "Ridley Scott"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Darth Vader zein sagatan agertzen da?",
+          "options": [
+            "Star Wars",
+            "Star Trek",
+            "Alien",
+            "Matrix"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zer saria da Hollywood Akademiaren nagusia?",
+          "options": [
+            "Oscar",
+            "Urrezko Palma",
+            "BAFTA",
+            "Urrezko Globoa"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Nor izan zen «Forrest Gump»en aktorea?",
+          "options": [
+            "Tom Hanks",
+            "Brad Pitt",
+            "Tom Cruise",
+            "DiCaprio"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Non ematen da Urrezko Palma?",
+          "options": [
+            "Cannes",
+            "Venezia",
+            "Berlin",
+            "Toronto"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zinema mutuak soinua zuen sinkronizatuta?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "Zinema aretoan filmak pantaila handian ikusten dira?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Pixarrek «Toy Story» egin zuen?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Klaqueta zertarako da?",
+          "options": [
+            "Takeak markatzeko",
+            "Argia pizteko",
+            "Soinua garbitzeko",
+            "Eseri"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Azpitituluak audio gehigarria dira?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 1
+        },
+        {
+          "q": "«Jurassic Park» nork zuzendu zuen (1993)?",
+          "options": [
+            "Steven Spielberg",
+            "James Cameron",
+            "George Lucas",
+            "Tim Burton"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "«The Lord of the Rings» nork zuzendu zuen?",
+          "options": [
+            "Peter Jackson",
+            "Christopher Nolan",
+            "Ridley Scott",
+            "Sam Raimi"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "«Inception» (Origen) nor da zuzendaria?",
+          "options": [
+            "Christopher Nolan",
+            "Denis Villeneuve",
+            "Martin Scorsese",
+            "Quentin Tarantino"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Non ematen da Urrezko Lehoia?",
+          "options": [
+            "Venezia",
+            "Cannes",
+            "Toronto",
+            "Berlin"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Non ematen da Urrezko Osoa?",
+          "options": [
+            "Berlin",
+            "Cannes",
+            "Venezia",
+            "Madrid"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zuzendaria film baten sormenean parte hartzen du?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Gidoilaria film baten sormenean parte hartzen du?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Muntatzaileak eszenak elkartzen ditu?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Ekoizleak proiektua kudeatzen laguntzen du?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein generok beldurra eragitea du helburu?",
+          "options": [
+            "Beldurrezkoa",
+            "Komedia",
+            "Dokumentala",
+            "Aventura"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Komedia generoa jada existitzen da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Animazioa zinema generoa da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Drama zinema generoa da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Abentura zinema generoa da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zein generotan dago espazioa eta etorkizuna maiz?",
+          "options": [
+            "Zientzia‑fikzioa",
+            "Musikala",
+            "Westerna",
+            "Erromantikoa"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Zineman kamerak eszenak grabatzen ditu?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Dokumentalak errealitateari buruzkoak dira?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Pantaila handia telebista baino handiagoa da?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        },
+        {
+          "q": "Eseri eta gozatu da zinema aretoan egin beharrekoa?",
+          "options": [
+            "Bai",
+            "Ez",
+            "Batzuetan",
+            "Araberakoa da"
+          ],
+          "answer_index": 0
+        }
+      ]
+    }
+  ]
+}
