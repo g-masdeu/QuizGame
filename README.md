@@ -46,4 +46,6 @@ Durante el desarrollo de este proyecto trabajé con:
 
 ## 🧑‍💻 Autor
 Desarrollado con 💙 en Flutter
-📧 Contacto: guillem.masdeu97@gmail.com
+Contacto: 
+- 📧 guillem.masdeu97@gmail.com
+- 💼 https://www.linkedin.com/in/guillem9masdeu/
