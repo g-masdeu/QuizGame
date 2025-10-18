@@ -38,7 +38,7 @@ Gestión de estado			Provider o Riverpod (dependiendo de la implementación)
 <img width="1920" height="986" alt="image" src="https://github.com/user-attachments/assets/a09172fc-f217-4f49-996f-41776f3d66eb" />
 
 ## 💡 Aprendizajes
-- Durante el desarrollo de este proyecto trabajé con:
+Durante el desarrollo de este proyecto trabajé con:
 - Animaciones avanzadas y su sincronización con la UI.
 - Diseño visual con transparencia y desenfoques (glassmorphism).
 - Configuración completa del sistema de internacionalización en Flutter.
