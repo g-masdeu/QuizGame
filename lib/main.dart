@@ -958,7 +958,7 @@ class _LanguageModal extends StatelessWidget {
     return Dialog(
       backgroundColor: Colors.transparent,
       child: Container(
-        constraints: const BoxConstraints(maxWidth: 600, maxHeight: 500),
+        constraints: const BoxConstraints(maxWidth: 800, maxHeight: 500),
         decoration: BoxDecoration(
           gradient: LinearGradient(
             colors: [
