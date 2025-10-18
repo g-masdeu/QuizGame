@@ -32,10 +32,10 @@ Internacionalización		flutter_localizations, intl
 Gestión de estado			Provider o Riverpod (dependiendo de la implementación)
 
 ## 📸 Vista previa
-<img width="1920" height="996" alt="image" src="https://github.com/user-attachments/assets/6b519629-1f06-4a4e-a87b-ce6a8788dda8" />
-<img width="1920" height="990" alt="image" src="https://github.com/user-attachments/assets/9f4a1340-2cc7-4ba8-89e0-641b53c36e6c" />
-<img width="1920" height="996" alt="image" src="https://github.com/user-attachments/assets/603ec9db-0734-42f3-9f6f-9cd978d9ba60" />
-<img width="1920" height="994" alt="image" src="https://github.com/user-attachments/assets/01eee5df-99a0-4c9d-b2bb-4950d9b823ed" />
+<img width="1920" height="995" alt="image" src="https://github.com/user-attachments/assets/f565acc1-62ba-469b-a9de-3cc41a761ec1" />
+<img width="1920" height="997" alt="image" src="https://github.com/user-attachments/assets/30ef6543-8276-4d89-bb02-5cb37d25f1e3" />
+<img width="1920" height="994" alt="image" src="https://github.com/user-attachments/assets/32e26856-5880-4a61-b7a8-334fd0d7a5ab" />
+<img width="1920" height="986" alt="image" src="https://github.com/user-attachments/assets/a09172fc-f217-4f49-996f-41776f3d66eb" />
 
 ## 💡 Aprendizajes
 - Durante el desarrollo de este proyecto trabajé con:
